@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myle2404
 - 👀 I’m interested in data analytics and business analytics
-- 🌱 I’m currently learning data analytics (Pythons)
+- 🌱 I’m currently learning data analytics (Python)
 - 💞️ I’m looking to collaborate with other people
 - 📫 How to reach me: lemy.eden@mail.ccsf.edu
 
